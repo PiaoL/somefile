@@ -1,0 +1,2 @@
+# somefile
+my zsh config 
